@@ -5,7 +5,7 @@ Domain : Cybersecurity and Ethical Hacking
 Duration : Dec 2024 to Jan 2025
 
 
-Over of the Project 
+Overview of the Project 
 
 Project : Password Strength Checker Using Python 
 
