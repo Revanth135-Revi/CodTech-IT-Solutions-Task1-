@@ -1,11 +1,7 @@
 Name : Revanth G
-
 Company CODTECH IT SOLUTIONS
-
 ID : CT08GWH
-
 Domain : Cybersecurity and Ethical Hacking
-
 Duration : Dec 2024 to Jan 2025.
 
 
