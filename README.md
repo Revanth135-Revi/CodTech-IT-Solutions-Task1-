@@ -22,15 +22,16 @@ Duration : Dec 2024 to Jan 2025.
 
 Overview of the Project 
 
-Project : Vulnerability Scanning Tool using Python 
+Project :Password strength checker using Python 
 
 Objective 
-The Objective is to push the vulnerability scanning of websites using this python script for medium and 
-high vulnerability.
+The Objective is to push awarness of password security and how much we need to put on work 
+to make the password more secure and make it much more easier using this.
 
 Technology Used :
 
-Python
+Python, Python String Library
+
 
 
 
